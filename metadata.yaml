@@ -1,0 +1,46 @@
+_repo: Talks-To-Teachers-On-Psychology--And-To-Students-On-Some-Of-Life-s-Ideals_16287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: '"In 1892 I was asked by the Harvard Corporation to give a few public
+  lectures on psychology to the Cambridge teachers. The talks now printed form the
+  substance of that course, which has since then been delivered at various places
+  to various teacher-audiences. I have found by experience that what my hearers seem
+  least to relish is analytical technicality, and what they most care for is concrete
+  practical application. So I have gradually weeded out the former, and left the latter
+  unreduced; and, now that I have at last written out the lectures, they contain a
+  minimum of what is deemed ''scientific'' in psychology, and are practical and popular
+  in the extreme. My main desire has been to make teachers conceive, and if possible,
+  reproduce sympathetically in their imagination, the mental life of their pupil as
+  the sort of active unity which he/she feels it to be. Readers acquainted with my
+  larger books on Psychology will meet much familiar phraseology. The talks to students,
+  which conclude the volume, were written in response to invitations to deliver ''addresses''
+  to students at women''s colleges. The first one was to the graduating class of the
+  Boston Normal School of Gymnastics. Properly, it continues the series of talks to
+  teachers. The second and the third address belong together, and continue another
+  line of thought"--Pref. (PsycINFO Database Record (c) 2005 APA, all rights reserved).'
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Educational psychology'
+- !lcc 'LB'
+- !lcsh 'Teachers -- Professional ethics'
+- !lcsh 'College students -- Conduct of life'
+title: Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals
+url: http://www.gutenberg.org/ebooks/16287
